@@ -1,7 +1,7 @@
 # 基于Java swingGUI的贷款计算器
 学习JavaGUI程序设计之后的作品
 
-
+CSDN: [CC_且听风吟](https://dzzhyk.blog.csdn.net/article/details/106130806)
 
 使用Java设计GUI虽然不是主流操作，但是可以使用swing组件快速开发软件原型，实现基础效果还是不错的
 
